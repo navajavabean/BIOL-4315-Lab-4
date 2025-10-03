@@ -47,3 +47,16 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+*.fna.gz
+*.fna
+*.gz
+*.gtf
+
+hisat2_index/
+sam_files/
+bam_files/
+*.sam
+*.bam
+*.bai
+*.log
+processed_reads/
